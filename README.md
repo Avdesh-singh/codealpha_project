@@ -1,2 +1,10 @@
 # codealpha_project
-this project will regarding to some basic task
+# simple regression
+   linked in link:-
+ 
+# titanic classification
+   linked in :-
+
+# stock prediction
+   linked in :-
+
